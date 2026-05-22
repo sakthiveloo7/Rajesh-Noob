@@ -1,0 +1,9 @@
+# Prank Birthday Website
+
+## Install
+
+npm install
+
+## Run
+
+npm run dev
